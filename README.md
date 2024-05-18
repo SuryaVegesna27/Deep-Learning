@@ -1,4 +1,4 @@
-# Brain-Tumor-Detection-using-Deep-Learning
+# Deep-Learning
 Automated-tumor-detection-using-densenet201
 
 
